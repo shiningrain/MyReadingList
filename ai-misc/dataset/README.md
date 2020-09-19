@@ -312,6 +312,63 @@
 
     </details>
 
+7.  👍 **ImageNet: A Large-Scale Hierarchical Image Database (2009 CVPR)**
+    [[Notes](./notes/deng2009imagenet.md)]
+    [[Paper](https://www-cs.stanford.edu/groups/vision/documents/ImageNet_CVPR2009.pdf)]
+    ⭐⭐⭐
+
+    **Overview:** A significant image dataset with 100k+ synsets and average 1000 images to each synset.
+
+    <details>
+    <summary>Details (click to expand...)</summary>
+
+    #### Download
+
+    ```
+    File List
+    ```
+
+    - [Baidu Netdisk]() (Password: xxxx)
+    - [Google Drive]()
+    - [Magnet (Torrent)]()
+    - [MEGA Cloud Drive]()
+    - [OneDrive]()
+    - [OneDrive by 21Vianet]()
+
+    #### Citation
+
+    ```
+    @inproceedings{deng2009imagenet,
+    author    = {Jia Deng and
+                Wei Dong and
+                Richard Socher and
+                Li{-}Jia Li and
+                Kai Li and
+                Fei{-}Fei Li},
+    title     = {ImageNet: {A} large-scale hierarchical image database},
+    booktitle = {2009 {IEEE} Computer Society Conference on Computer Vision and Pattern
+                Recognition {(CVPR} 2009), 20-25 June 2009, Miami, Florida, {USA}},
+    pages     = {248--255},
+    publisher = {{IEEE} Computer Society},
+    year      = {2009},
+    url       = {https://doi.org/10.1109/CVPR.2009.5206848},
+    doi       = {10.1109/CVPR.2009.5206848},
+    timestamp = {Fri, 27 Mar 2020 08:56:42 +0100},
+    biburl    = {https://dblp.org/rec/conf/cvpr/DengDSLL009.bib},
+    bibsource = {dblp computer science bibliography, https://dblp.org}
+    }
+    ```
+
+    #### URL
+
+    ```
+    Paper: https://www-cs.stanford.edu/groups/vision/documents/ImageNet_CVPR2009.pdf
+    Download: (http://image-net.org/download)
+    Citation: https://dblp.uni-trier.de/rec/conf/cvpr/DengDSLL009.html?view=bibtex
+    ```
+
+    </details>
+
 ## Object Detection
 
 1.  ⛔️ **WIDER FACE: A Face Detection Benchmark (2016 CVPR)**
