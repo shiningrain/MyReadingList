@@ -90,3 +90,46 @@
     ```
 
     </details>
+
+3.  👍 **Copycat CNN: Stealing Knowledge by Persuading Confession with Random Non-Labeled Data(2018 IJCNN)**
+    [[Notes](./notes/Silva2018copycat.md)]
+    [[Paper](https://doi.org/10.1109/IJCNN.2018.8489592)]
+    ⭐⭐
+
+    **Overview:** A simple research using data out of the PD to extraction the target model.
+
+    <details>
+    <summary>Details (click to expand...)</summary>
+
+    #### Citation
+
+    ```
+    @inproceedings{Silva2018copycat,
+    author    = {Jacson Rodrigues Correia da Silva and
+                Rodrigo Ferreira Berriel and
+                Claudine Badue and
+                Alberto Ferreira de Souza and
+                Thiago Oliveira{-}Santos},
+    title     = {Copycat {CNN:} Stealing Knowledge by Persuading Confession with Random
+                Non-Labeled Data},
+    booktitle = {2018 International Joint Conference on Neural Networks, {IJCNN} 2018,
+                Rio de Janeiro, Brazil, July 8-13, 2018},
+    pages     = {1--8},
+    publisher = {{IEEE}},
+    year      = {2018},
+    url       = {https://doi.org/10.1109/IJCNN.2018.8489592},
+    doi       = {10.1109/IJCNN.2018.8489592},
+    timestamp = {Sat, 19 Oct 2019 20:17:30 +0200},
+    biburl    = {https://dblp.org/rec/conf/ijcnn/SilvaBBSO18.bib},
+    bibsource = {dblp computer science bibliography, https://dblp.org}
+    }
+    ```
+
+    #### URL
+
+    ```
+    Paper: https://doi.org/10.1109/IJCNN.2018.8489592
+    Citation: https://dblp.uni-trier.de/rec/conf/ijcnn/SilvaBBSO18.html?view=bibtex
+    ```
+
+    </details>
