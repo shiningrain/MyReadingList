@@ -1,7 +1,5 @@
 # 📖 Reading Lists
 
-This repository is the paper reading lists for XJTU AI Security Group.
-
 **Before getting started, it's recommended to read the [_specification_](./specification.md) first to learn how to explore this reading list and make some contributions.**
 
 ## AI Security
