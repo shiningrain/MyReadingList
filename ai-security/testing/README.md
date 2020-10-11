@@ -222,3 +222,30 @@
     ```
 
     </details>
+
+6.   👍 **Problems and Opportunities in Training Deep Learning Software Systems: An Analysis of Variance (2020 ASE)**
+    [[Notes](./notes/phamproblems.md)]
+    [[Paper](https://www.cs.purdue.edu/homes/lintan/publications/variance-ase20.pdf)]
+    ⭐⭐
+
+    **Overview:**  A comprehensive research about the NI-factors in DL training.
+    <details>
+    <summary>Details (click to expand...)</summary>
+
+    #### Citation
+
+    ```
+    @article{phamproblems,
+    title={Problems and Opportunities in Training Deep Learning Software Systems: An Analysis of Variance},
+    author={Pham, Hung Viet and Qian, Shangshu and Wang, Jiannan and Lutellier, Thibaud and Rosenthal, Jonathan and Tan, Lin and Yu, Yaoliang and Nagappan, Nachiappan}
+    }
+    ```
+
+    #### URL
+
+    ```
+    Paper: https://www.cs.purdue.edu/homes/lintan/publications/variance-ase20.pdf
+    Citation: https://scholar.googleusercontent.com/scholar.bib?q=info:qJ_PkNZ7GrYJ:scholar.google.com/&output=citation&scisdr=CgU2zXFIEKrl12wEhsY:AAGBfm0AAAAAX4MBnsZyucjdIwI6yVHdlW0aKzRh-nX0&scisig=AAGBfm0AAAAAX4MBnja_NRJMQNjVuEKjTh-TbWDjEivW&scisf=4&ct=citation&cd=0&hl=zh-CN
+    ```
+
+    </details>
