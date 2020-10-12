@@ -249,3 +249,33 @@
     ```
 
     </details>
+
+6.   👍 **Fuzz Testing based Data Augmentation to Improve Robustness of Deep Neural Networks (2020 ICSE)**
+    [[Notes](./notes/gao2020fuzz.md)]
+    [[Paper](https://www.comp.nus.edu.sg/~gaoxiang/papers/Sensei_ICSE20.pdf)]
+    ⭐⭐
+
+    **Overview:**  A new fuzz testing method to enhance the dataset and make it more robust.
+    <details>
+    <summary>Details (click to expand...)</summary>
+
+    #### Citation
+
+    ```
+    @inproceedings{gao2020fuzz,
+    title={Fuzz testing based data augmentation to improve robustness of deep neural networks},
+    author={Gao, Xiang and Saha, Ripon K and Prasad, Mukul R and Roychoudhury, Abhik},
+    booktitle={Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering},
+    pages={1147--1158},
+    year={2020}
+    }
+    ```
+
+    #### URL
+
+    ```
+    Paper: https://www.comp.nus.edu.sg/~gaoxiang/papers/Sensei_ICSE20.pdf
+    Citation: https://scholar.googleusercontent.com/scholar.bib?q=info:D4f6HLqImb4J:scholar.google.com/&output=citation&scisdr=CgU2zXFIEKrl12teBHg:AAGBfm0AAAAAX4RbHHj4OD6dev6UX1X-A-OqphgZjd0o&scisig=AAGBfm0AAAAAX4RbHLexViPKqpkopAcYbx2ieNcIgHj-&scisf=4&ct=citation&cd=0&hl=zh-CN
+    ```
+
+    </details>
