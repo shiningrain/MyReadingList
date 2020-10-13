@@ -329,3 +329,46 @@
     ```
 
     </details>
+
+9.   👍 **TensorFuzz: Debugging Neural Networks with Coverage-Guided Fuzzing (2019 ICML)**
+    [[Notes](./notes/Odena2019tensorfuzz.md)]
+    [[Paper](http://proceedings.mlr.press/v97/odena19a/odena19a.pdf)]
+    ⭐⭐
+
+    **Overview:**  
+    <details>
+    <summary>Details (click to expand...)</summary>
+
+    #### Citation
+
+    ```
+    @inproceedings{Odena2019tensorfuzz,
+    author    = {Augustus Odena and
+                Catherine Olsson and
+                David G. Andersen and
+                Ian J. Goodfellow},
+    editor    = {Kamalika Chaudhuri and
+                Ruslan Salakhutdinov},
+    title     = {TensorFuzz: Debugging Neural Networks with Coverage-Guided Fuzzing},
+    booktitle = {Proceedings of the 36th International Conference on Machine Learning,
+                {ICML} 2019, 9-15 June 2019, Long Beach, California, {USA}},
+    series    = {Proceedings of Machine Learning Research},
+    volume    = {97},
+    pages     = {4901--4911},
+    publisher = {{PMLR}},
+    year      = {2019},
+    url       = {http://proceedings.mlr.press/v97/odena19a.html},
+    timestamp = {Wed, 07 Oct 2020 15:24:17 +0200},
+    biburl    = {https://dblp.org/rec/conf/icml/OdenaOAG19.bib},
+    bibsource = {dblp computer science bibliography, https://dblp.org}
+    }
+    ```
+
+    #### URL
+
+    ```
+    Paper: http://proceedings.mlr.press/v97/odena19a/odena19a.pdf
+    Citation: https://dblp.uni-trier.de/rec/conf/icml/OdenaOAG19.html?view=bibtex
+    ```
+
+    </details>
