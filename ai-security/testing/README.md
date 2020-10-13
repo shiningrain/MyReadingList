@@ -250,7 +250,10 @@
 
     </details>
 
-6.   👍 **Fuzz Testing based Data Augmentation to Improve Robustness of Deep Neural Networks (2020 ICSE)**
+
+
+
+7.   👍 **Fuzz Testing based Data Augmentation to Improve Robustness of Deep Neural Networks (2020 ICSE)**
     [[Notes](./notes/gao2020fuzz.md)]
     [[Paper](https://www.comp.nus.edu.sg/~gaoxiang/papers/Sensei_ICSE20.pdf)]
     ⭐⭐
@@ -276,6 +279,53 @@
     ```
     Paper: https://www.comp.nus.edu.sg/~gaoxiang/papers/Sensei_ICSE20.pdf
     Citation: https://scholar.googleusercontent.com/scholar.bib?q=info:D4f6HLqImb4J:scholar.google.com/&output=citation&scisdr=CgU2zXFIEKrl12teBHg:AAGBfm0AAAAAX4RbHHj4OD6dev6UX1X-A-OqphgZjd0o&scisig=AAGBfm0AAAAAX4RbHLexViPKqpkopAcYbx2ieNcIgHj-&scisf=4&ct=citation&cd=0&hl=zh-CN
+    ```
+
+    </details>
+
+
+8.   👍 **DLFuzz: Differential Fuzzing Testing of Deep Learning Systems (2018 FSE)**
+    [[Notes](./notes/guo018dlfuzz.md)]
+    [[Paper](http://wingtecher.com/themes/WingTecherResearch/assets/papers/fse18-dlfuzz.pdf)]
+    ⭐⭐
+
+    **Overview:**  
+    <details>
+    <summary>Details (click to expand...)</summary>
+
+    #### Citation
+
+    ```
+    @inproceedings{guo2018dlfuzz,
+    author    = {Jianmin Guo and
+                Yu Jiang and
+                Yue Zhao and
+                Quan Chen and
+                Jiaguang Sun},
+    editor    = {Gary T. Leavens and
+                Alessandro Garcia and
+                Corina S. Pasareanu},
+    title     = {DLFuzz: differential fuzzing testing of deep learning systems},
+    booktitle = {Proceedings of the 2018 {ACM} Joint Meeting on European Software Engineering
+                Conference and Symposium on the Foundations of Software Engineering,
+                {ESEC/SIGSOFT} {FSE} 2018, Lake Buena Vista, FL, USA, November 04-09,
+                2018},
+    pages     = {739--743},
+    publisher = {{ACM}},
+    year      = {2018},
+    url       = {https://doi.org/10.1145/3236024.3264835},
+    doi       = {10.1145/3236024.3264835},
+    timestamp = {Tue, 25 Aug 2020 17:00:59 +0200},
+    biburl    = {https://dblp.org/rec/conf/sigsoft/GuoJZCS18.bib},
+    bibsource = {dblp computer science bibliography, https://dblp.org}
+    }
+    ```
+
+    #### URL
+
+    ```
+    Paper: http://wingtecher.com/themes/WingTecherResearch/assets/papers/fse18-dlfuzz.pdf
+    Citation: https://dblp.uni-trier.de/rec/conf/sigsoft/GuoJZCS18.html?view=bibtex
     ```
 
     </details>
