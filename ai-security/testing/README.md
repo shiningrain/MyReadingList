@@ -336,7 +336,7 @@
     ⭐⭐
 
     **Overview:**  
-    <details>
+    <details>Tensorfuzz, a brilliant work about CGF on DL framework.
     <summary>Details (click to expand...)</summary>
 
     #### Citation
@@ -369,6 +369,51 @@
     ```
     Paper: http://proceedings.mlr.press/v97/odena19a/odena19a.pdf
     Citation: https://dblp.uni-trier.de/rec/conf/icml/OdenaOAG19.html?view=bibtex
+    ```
+
+    </details>
+
+10.   👍 **A Comprehensive Study on Deep Learning Bug Characteristics (2019 FSE)**
+    [[Notes](./notes/Islam2019comprehensive.md)]
+    [[Paper](https://arxiv.org/pdf/1906.01388.pdf)]
+    ⭐⭐
+
+    **Overview:**  
+    <details> A comprehensive work about 5 frameworks bugs.
+    <summary>Details (click to expand...)</summary>
+
+    #### Citation
+
+    ```
+    @inproceedings{Islam2019comprehensive,
+    author    = {Md Johirul Islam and
+                Giang Nguyen and
+                Rangeet Pan and
+                Hridesh Rajan},
+    editor    = {Marlon Dumas and
+                Dietmar Pfahl and
+                Sven Apel and
+                Alessandra Russo},
+    title     = {A comprehensive study on deep learning bug characteristics},
+    booktitle = {Proceedings of the {ACM} Joint Meeting on European Software Engineering
+                Conference and Symposium on the Foundations of Software Engineering,
+                {ESEC/SIGSOFT} {FSE} 2019, Tallinn, Estonia, August 26-30, 2019},
+    pages     = {510--520},
+    publisher = {{ACM}},
+    year      = {2019},
+    url       = {https://doi.org/10.1145/3338906.3338955},
+    doi       = {10.1145/3338906.3338955},
+    timestamp = {Fri, 09 Aug 2019 14:13:18 +0200},
+    biburl    = {https://dblp.org/rec/conf/sigsoft/IslamNPR19.bib},
+    bibsource = {dblp computer science bibliography, https://dblp.org}
+    }
+    ```
+
+    #### URL
+
+    ```
+    Paper: https://arxiv.org/pdf/1906.01388.pdf
+    Citation: https://dblp.uni-trier.de/rec/conf/sigsoft/IslamNPR19.html?view=bibtex
     ```
 
     </details>
