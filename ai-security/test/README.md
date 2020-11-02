@@ -417,3 +417,33 @@
     ```
 
     </details>
+
+11.   👍 **Is Neuron Coverage a Meaningful Measure for Testing Deep Neural Networks? (2020 FSE)**
+    [[Notes](./notes/Islam2019comprehensive.md)]
+    [[Paper](https://fabrice.harel-canada.com/publication/neuron-coverage-eval/neuron-coverage-eval.pdf)]
+    ⭐⭐
+
+    **Overview:**  
+    <details> A survey for NC in testing from input naturaless,output impartiality,detect detection. 
+    <summary>Details (click to expand...)</summary>
+
+    #### Citation
+
+    ```
+    @article{harel1001neuron,
+    title={Is Neuron Coverage a Meaningful Measure for Testing Deep Neural Networks?},
+    author={Harel, Fabrice Yohann},
+    journal={Ann Arbor},
+    volume={1001},
+    pages={48106--1346}
+    }
+    ```
+
+    #### URL
+
+    ```
+    Paper: https://arxiv.org/pdf/1906.01388.pdf
+    Citation: https://scholar.googleusercontent.com/scholar.bib?q=info:96oZqDEIyOQJ:scholar.google.com/&output=citation&scisdr=CgU2zXCMEKrl13D77Yo:AAGBfm0AAAAAX5_-9Yr7ygQvKd8sKZdJGmI-IBN96ez2&scisig=AAGBfm0AAAAAX5_-9b_6ueu93CvvbpjHOthpk8sgLe52&scisf=4&ct=citation&cd=0&hl=zh-CN
+    ```
+
+    </details>
