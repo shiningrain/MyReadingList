@@ -447,3 +447,46 @@
     ```
 
     </details>
+
+12.   👍 **Testing DNN Image Classifiers for Confusion & Bias Errors (2020 ICSE)**
+    [[Notes](./notes/Tian2020testing.md)]
+    [[Paper](https://dl.acm.org/doi/pdf/10.1145/3377811.3380400)]
+    ⭐⭐
+
+    **Overview:**  
+    <details> A research focused on the confusion/bias between two classes on the trained models. 
+    <summary>Details (click to expand...)</summary>
+
+    #### Citation
+
+    ```
+    @inproceedings{Tian2020testing,
+    author    = {Yuchi Tian and
+                Ziyuan Zhong and
+                Vicente Ordonez and
+                Gail E. Kaiser and
+                Baishakhi Ray},
+    editor    = {Gregg Rothermel and
+                Doo{-}Hwan Bae},
+    title     = {Testing {DNN} image classifiers for confusion {\&} bias errors},
+    booktitle = {{ICSE} '20: 42nd International Conference on Software Engineering,
+                Seoul, South Korea, 27 June - 19 July, 2020},
+    pages     = {1122--1134},
+    publisher = {{ACM}},
+    year      = {2020},
+    url       = {https://doi.org/10.1145/3377811.3380400},
+    doi       = {10.1145/3377811.3380400},
+    timestamp = {Fri, 16 Oct 2020 10:56:00 +0200},
+    biburl    = {https://dblp.org/rec/conf/icse/TianZOKR20.bib},
+    bibsource = {dblp computer science bibliography, https://dblp.org}
+    }
+    ```
+
+    #### URL
+
+    ```
+    Paper: https://dl.acm.org/doi/pdf/10.1145/3377811.3380400
+    Citation: https://dblp.uni-trier.de/rec/conf/icse/TianZOKR20.html?view=bibtex
+    ```
+
+    </details>
