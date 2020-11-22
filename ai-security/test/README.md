@@ -485,8 +485,37 @@
     #### URL
 
     ```
-    Paper: https://dl.acm.org/doi/pdf/10.1145/3377811.3380400
+    Paper: https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=5635&context=sis_research
     Citation: https://dblp.uni-trier.de/rec/conf/icse/TianZOKR20.html?view=bibtex
+    ```
+
+    </details>
+
+12.   👍 **White-box Fairness Testing through Adversarial Sampling (2020 ICSE)**
+    [[Notes](./notes/zhang2020white.md)]
+    [[Paper](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=5635&context=sis_research)]
+    ⭐⭐
+
+    **Overview:**  
+    <details> Scalable solution to search the DNN bias cases and use less time. 
+    <summary>Details (click to expand...)</summary>
+
+    #### Citation
+
+    ```
+    @article{zhang2020white,
+    title={White-box fairness testing through adversarial sampling},
+    author={ZHANG, Peixin and WANG, Jingyi and SUN, Jun and DONG, Guoliang and WANG, Xinyu and WANG, Xingen and DONG, Jin Song and TING, Dai},
+    year={2020},
+    publisher={Barclays Research}
+    }
+    ```
+
+    #### URL
+
+    ```
+    Paper: https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=5635&context=sis_research
+    Citation: https://scholar.googleusercontent.com/scholar.bib?q=info:eViJiJkjen0J:scholar.google.com/&output=citation&scisdr=CgX6tdiPEKrl11dzg0E:AAGBfm0AAAAAX7h2m0De9C4p93IH7N2m6IN2hPY6ZZyZ&scisig=AAGBfm0AAAAAX7h2m0_mcNG71pOlUijNzKr81PgxxtJj&scisf=4&ct=citation&cd=0&hl=zh-CN
     ```
 
     </details>
