@@ -491,7 +491,7 @@
 
     </details>
 
-12.   👍 **White-box Fairness Testing through Adversarial Sampling (2020 ICSE)**
+13.   👍 **White-box Fairness Testing through Adversarial Sampling (2020 ICSE)**
     [[Notes](./notes/zhang2020white.md)]
     [[Paper](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=5635&context=sis_research)]
     ⭐⭐
@@ -516,6 +516,37 @@
     ```
     Paper: https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=5635&context=sis_research
     Citation: https://scholar.googleusercontent.com/scholar.bib?q=info:eViJiJkjen0J:scholar.google.com/&output=citation&scisdr=CgX6tdiPEKrl11dzg0E:AAGBfm0AAAAAX7h2m0De9C4p93IH7N2m6IN2hPY6ZZyZ&scisig=AAGBfm0AAAAAX7h2m0_mcNG71pOlUijNzKr81PgxxtJj&scisf=4&ct=citation&cd=0&hl=zh-CN
+    ```
+
+    </details>
+
+
+14.   👍 **White-box Fairness Testing through Adversarial Sampling (2020 ICSE)**
+    [[Notes](./notes/jin2019auto.md)]
+    [[Paper](https://dl.acm.org/doi/abs/10.1145/3292500.3330648)]
+    ⭐⭐⭐
+
+    **Overview:**  
+    <details> A automatic tool to design model structure based on tasks. 
+    <summary>Details (click to expand...)</summary>
+
+    #### Citation
+
+    ```
+    @inproceedings{jin2019auto,
+    title={Auto-keras: An efficient neural architecture search system},
+    author={Jin, Haifeng and Song, Qingquan and Hu, Xia},
+    booktitle={Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining},
+    pages={1946--1956},
+    year={2019}
+    }
+    ```
+
+    #### URL
+
+    ```
+    Paper: https://dl.acm.org/doi/abs/10.1145/3292500.3330648
+    Citation: https://scholar.googleusercontent.com/scholar.bib?q=info:z_Md7qY8rZkJ:scholar.google.com/&output=citation&scisdr=CgU2zXI2EKrl11PPDgY:AAGBfm0AAAAAX7zKFgaW9cvyc9xIfv02KyBoVkdOOx86&scisig=AAGBfm0AAAAAX7zKFtENv11LgAAhb3S5YlJPEZ1wYfNe&scisf=4&ct=citation&cd=0&hl=zh-CN
     ```
 
     </details>
