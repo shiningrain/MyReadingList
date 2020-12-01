@@ -16,3 +16,5 @@
    1. edit-distance kernel for NAS space challenge.
    2. optimization with simulated annealing algorithm
    3. group-level morphism for shape consistency
+
+3. 3 experiments: effective in searching; efficient in optimization; kernel function truely effective?

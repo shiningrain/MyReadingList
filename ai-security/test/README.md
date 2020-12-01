@@ -521,7 +521,7 @@
     </details>
 
 
-14.   👍 **White-box Fairness Testing through Adversarial Sampling (2020 ICSE)**
+14.   👍 **Auto-Keras: An Efficient Neural Architecture Search System (2019 KDD)**
     [[Notes](./notes/jin2019auto.md)]
     [[Paper](https://dl.acm.org/doi/abs/10.1145/3292500.3330648)]
     ⭐⭐⭐
@@ -546,6 +546,44 @@
 
     ```
     Paper: https://dl.acm.org/doi/abs/10.1145/3292500.3330648
+    Citation: https://scholar.googleusercontent.com/scholar.bib?q=info:z_Md7qY8rZkJ:scholar.google.com/&output=citation&scisdr=CgU2zXI2EKrl11PPDgY:AAGBfm0AAAAAX7zKFgaW9cvyc9xIfv02KyBoVkdOOx86&scisig=AAGBfm0AAAAAX7zKFtENv11LgAAhb3S5YlJPEZ1wYfNe&scisf=4&ct=citation&cd=0&hl=zh-CN
+    ```
+
+    </details>
+
+15.   👍 **AutoML: A Survey of the State-of-the-Art (2020  Knowledge-Based Systems)**
+    [[Notes](./notes/he2020automl.md)]
+    [[Paper](https://www.researchgate.net/profile/Xin_He103/publication/334963534_AutoML_A_Survey_of_the_State-of-the-Art/links/5e57903792851cefa1c7fecd/AutoML-A-Survey-of-the-State-of-the-Art.pdf)]
+    ⭐⭐⭐
+
+    **Overview:**  
+    <details> A comprehensive research about AutoML in 2 aspects: model structure and HPO hyperparameter optimization. 
+    <summary>Details (click to expand...)</summary>
+
+    #### Citation
+
+    ```
+    @article{he2020automl,
+    author    = {Xin He and
+                Kaiyong Zhao and
+                Xiaowen Chu},
+    title     = {AutoML: {A} Survey of the State-of-the-Art},
+    journal   = {CoRR},
+    volume    = {abs/1908.00709},
+    year      = {2019},
+    url       = {http://arxiv.org/abs/1908.00709},
+    archivePrefix = {arXiv},
+    eprint    = {1908.00709},
+    timestamp = {Fri, 09 Aug 2019 12:15:56 +0200},
+    biburl    = {https://dblp.org/rec/journals/corr/abs-1908-00709.bib},
+    bibsource = {dblp computer science bibliography, https://dblp.org}
+    }
+    ```
+
+    #### URL
+
+    ```
+    Paper: https://www.researchgate.net/profile/Xin_He103/publication/334963534_AutoML_A_Survey_of_the_State-of-the-Art/links/5e57903792851cefa1c7fecd/AutoML-A-Survey-of-the-State-of-the-Art.pdf
     Citation: https://scholar.googleusercontent.com/scholar.bib?q=info:z_Md7qY8rZkJ:scholar.google.com/&output=citation&scisdr=CgU2zXI2EKrl11PPDgY:AAGBfm0AAAAAX7zKFgaW9cvyc9xIfv02KyBoVkdOOx86&scisig=AAGBfm0AAAAAX7zKFtENv11LgAAhb3S5YlJPEZ1wYfNe&scisf=4&ct=citation&cd=0&hl=zh-CN
     ```
 
