@@ -588,3 +588,34 @@
     ```
 
     </details>
+
+
+16.   👍 **TASO: Optimizing Deep Learning Computation with Automatic Generation of Graph Substitutions(2019 SOSP)**
+    [[Notes](./notes/jia2019taso.md)]
+    [[Paper](https://dl.acm.org/doi/abs/10.1145/3341301.3359630)]
+    ⭐⭐⭐
+
+    **Overview:**  
+    <details> The first tool to automatically generate graph substitutions for DNN computation graph optimizer. 
+    <summary>Details (click to expand...)</summary>
+
+    #### Citation
+
+    ```
+    @inproceedings{jia2019taso,
+    title={TASO: optimizing deep learning computation with automatic generation of graph substitutions},
+    author={Jia, Zhihao and Padon, Oded and Thomas, James and Warszawski, Todd and Zaharia, Matei and Aiken, Alex},
+    booktitle={Proceedings of the 27th ACM Symposium on Operating Systems Principles},
+    pages={47--62},
+    year={2019}
+    }
+    ```
+
+    #### URL
+
+    ```
+    Paper: https://www.researchgate.net/profile/Xin_He103/publication/334963534_AutoML_A_Survey_of_the_State-of-the-Art/links/5e57903792851cefa1c7fecd/AutoML-A-Survey-of-the-State-of-the-Art.pdf
+    Citation: https://scholar.googleusercontent.com/scholar.bib?q=info:fbxYtY6IHuMJ:scholar.google.com/&output=citation&scisdr=CgVGyh_rEKrl1yEOf0U:AAGBfm0AAAAAX84LZ0U2Q0C3wpP_ts9FmOHRPPiq7nkp&scisig=AAGBfm0AAAAAX84LZwtoRmODcImv9Uj_6VB7zo1mgTPJ&scisf=4&ct=citation&cd=0&hl=zh-CN
+    ```
+
+    </details>
