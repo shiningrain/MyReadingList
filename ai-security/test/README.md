@@ -619,3 +619,33 @@
     ```
 
     </details>
+
+17.   👍 **Concolic Testing for Deep Neural Networks (2018 ASE)**
+    [[Notes](./notes/sun2018concolic.md)]
+    [[Paper](http://qav.comlab.ox.ac.uk/papers/swr+18.pdf)]
+    ⭐⭐
+
+    **Overview:**  
+    <details> The first concolic testing approach for DNNs and design a method for performing concolic testing to increase the test coverage. 
+    <summary>Details (click to expand...)</summary>
+
+    #### Citation
+
+    ```
+    @inproceedings{sun2018concolic,
+    title={Concolic testing for deep neural networks},
+    author={Sun, Youcheng and Wu, Min and Ruan, Wenjie and Huang, Xiaowei and Kwiatkowska, Marta and Kroening, Daniel},
+    booktitle={Proceedings of the 33rd ACM/IEEE International Conference on Automated Software Engineering},
+    pages={109--119},
+    year={2018}
+    }
+    ```
+
+    #### URL
+
+    ```
+    Paper: http://qav.comlab.ox.ac.uk/papers/swr+18.pdf
+    Citation: https://scholar.googleusercontent.com/scholar.bib?q=info:PUsfPb1CIMgJ:scholar.google.com/&output=citation&scisdr=CgVGyh_rEKrl1zgt25Y:AAGBfm0AAAAAX9cow5ZnL5L_pj5nLHfa9UztoFxnrTAy&scisig=AAGBfm0AAAAAX9cow6sy_MlwmSVInWPGmU6hsqWbnhn8&scisf=4&ct=citation&cd=0&hl=zh-CN
+    ```
+
+    </details>
