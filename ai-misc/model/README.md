@@ -218,3 +218,34 @@
     ```
 
     </details>
+
+3.  👍 **ASER: A Large-scale Eventuality Knowledge Graph (2020 WWW)**
+    [[Notes](./notes/zhang2020aser.md)]
+    [[Paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380107)]
+    ⭐⭐⭐
+
+    **Overview:** Extract from billion of textual data and generate the knowledge graph. 
+
+    <details>
+    <summary>Details (click to expand...)</summary>
+
+    #### Citation
+
+    ```
+    @inproceedings{zhang2020aser,
+    title={ASER: A large-scale eventuality knowledge graph},
+    author={Zhang, Hongming and Liu, Xin and Pan, Haojie and Song, Yangqiu and Leung, Cane Wing-Ki},
+    booktitle={Proceedings of The Web Conference 2020},
+    pages={201--211},
+    year={2020}
+    }
+    ```
+
+    #### URL
+
+    ```
+    Paper: https://dl.acm.org/doi/pdf/10.1145/3366423.3380107
+    Citation: https://scholar.googleusercontent.com/scholar.bib?q=info:h_YDmW8xTU8J:scholar.google.com/&output=citation&scisdr=CgVGyh_rEKrl1wY5kdM:AAGBfm0AAAAAX-k8idNo0h1DrwllAcL3hyKubQbrpG43&scisig=AAGBfm0AAAAAX-k8ifftKxS_nswGKBut-GCk7MY3P08a&scisf=4&ct=citation&cd=0&hl=zh-CN
+    ```
+
+    </details>
