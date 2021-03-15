@@ -1,7 +1,7 @@
 ## speed up
 Their aim is to terminate the trainings who can not beat the best training so far in the future.
 ### Motivation
-1. Training multi-models has tpo much time cost and become infeasible.
+1. Training multi-models has too much time cost and become infeasible.
 2. Previous work requires too much preivous builds to make prediction.
 
 ### Effect

@@ -3,7 +3,7 @@
 ### Motivation
 1. Searching for good hyperparams need to face the problems of huge search space, expensive training runtime, sparsity of good
 configurations and scarcity of time and resources.
-2. Previous works are inefficient and  
+2. Previous works are inefficient and cost a lot of time 
 
 ### Challenge
 1. Efficiently explore hyperparameter values while obtaining high model performance and optimizing time and resource costs.
