@@ -188,3 +188,32 @@
     ```
 
     </details>
+
+7.  👍 **Combination of Hyperband and Bayesian Optimization for Hyperparameter Optimization in Deep Learning**
+    [[Notes](./notes/wang2018combination.md)]
+    [[Paper](https://arxiv.org/abs/1801.01596)]
+    ⭐⭐
+
+    **Overview:** Proposed a method that combine the bayesian with Hyperband algorithm to adjust DL model hyperparameters.
+    <details>
+    <summary>Details (click to expand...)</summary>
+
+    #### Citation
+
+    ```
+    @article{wang2018combination,
+    title={Combination of hyperband and Bayesian optimization for hyperparameter optimization in deep learning},
+    author={Wang, Jiazhuo and Xu, Jason and Wang, Xuejun},
+    journal={arXiv preprint arXiv:1801.01596},
+    year={2018}
+    }
+    ```
+
+    #### URL
+
+    ```
+    Paper: https://arxiv.org/abs/1801.01596
+    Citation: https://scholar.googleusercontent.com/scholar.bib?q=info:rF4pLmZ1DDUJ:scholar.google.com/&output=citation&scisdr=CgVZZtBEEKrl6LKeIU0:AAGBfm0AAAAAYF2bOU2OPJBkFB4E3Gp5sscantpO8E5x&scisig=AAGBfm0AAAAAYF2bOQMreroPFcI8C4eJ7Y1y-Ur2yojP&scisf=4&ct=citation&cd=0&hl=zh-CN
+    ```
+
+    </details>
