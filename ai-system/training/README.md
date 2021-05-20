@@ -217,3 +217,126 @@
     ```
 
     </details>
+
+8. 👍 **Algorithms for Hyper-Parameter Optimization**
+    [[Notes](./notes/bergstra2011algorithms.md)]
+    [[Paper](https://hal.inria.fr/hal-00642998/)]
+    ⭐⭐⭐⭐
+
+    **Overview:** Propose 2 classical hyperparameters tuning method: Gaussian Process and TPE algorithm.
+    <details>
+    <summary>Details (click to expand...)</summary>
+
+    #### Citation
+
+    ```
+    @inproceedings{bergstra2011algorithms,
+    title={Algorithms for hyper-parameter optimization},
+    author={Bergstra, James and Bardenet, R{\'e}mi and Bengio, Yoshua and K{\'e}gl, Bal{\'a}zs},
+    booktitle={25th annual conference on neural information processing systems (NIPS 2011)},
+    volume={24},
+    year={2011},
+    organization={Neural Information Processing Systems Foundation}
+    }
+    ```
+
+    #### URL
+
+    ```
+    Paper: https://hal.inria.fr/hal-00642998/
+    Citation: https://scholar.googleusercontent.com/scholar.bib?q=info:OSYktxdmDR8J:scholar.google.com/&output=citation&scisdr=CgVZZtBEEKrl6EzA6_A:AAGBfm0AAAAAYKPF8_C5BsRfJmou80UHnk5Z2LI5vN_4&scisig=AAGBfm0AAAAAYKPF89QUvo6lXDSp2mq18OLCKvYSVDUp&scisf=4&ct=citation&cd=0&hl=zh-CN
+    ```
+
+    </details>
+
+
+9. 👍 **PRACTICAL BAYESIAN OPTIMIZATION OF MACHINE LEARNING ALGORITHMS**
+    [[Notes](./notes/snoek2012practical.md)]
+    [[Paper](https://arxiv.org/pdf/1206.2944.pdf)]
+    ⭐⭐
+
+    **Overview:** Propose new algorithms that can run good results with multiple cores for parallel experimentation in the bayes optimization frameworks.
+    <details>
+    <summary>Details (click to expand...)</summary>
+
+    #### Citation
+
+    ```
+    @article{snoek2012practical,
+    title={Practical bayesian optimization of machine learning algorithms},
+    author={Snoek, Jasper and Larochelle, Hugo and Adams, Ryan P},
+    journal={arXiv preprint arXiv:1206.2944},
+    year={2012}
+    }
+    ```
+
+    #### URL
+
+    ```
+    Paper: https://arxiv.org/pdf/1206.2944.pdf
+    Citation: https://scholar.googleusercontent.com/scholar.bib?q=info:OSYktxdmDR8J:scholar.google.com/&output=citation&scisdr=CgVZZtBEEKrl6EzA6_A:AAGBfm0AAAAAYKPF8_C5BsRfJmou80UHnk5Z2LI5vN_4&scisig=AAGBfm0AAAAAYKPF89QUvo6lXDSp2mq18OLCKvYSVDUp&scisf=4&ct=citation&cd=0&hl=zh-CN
+    ```
+
+    </details>
+
+10. 👍 **Evolutionary Optimization of Hyperparameters in Deep Learning Models**
+    [[Notes](./notes/kim2019evolutionary.md)]
+    [[Paper](https://ieeexplore.ieee.org/abstract/document/8790354)]
+    ⭐⭐
+
+    **Overview:** Propose a genetic method to find optimal fucntions and activations..
+    <details>
+    <summary>Details (click to expand...)</summary>
+
+    #### Citation
+
+    ```
+    @inproceedings{kim2019evolutionary,
+    title={Evolutionary optimization of hyperparameters in deep learning models},
+    author={Kim, Jin-Young and Cho, Sung-Bae},
+    booktitle={2019 IEEE Congress on Evolutionary Computation (CEC)},
+    pages={831--837},
+    year={2019},
+    organization={IEEE}
+    }
+    ```
+
+    #### URL
+
+    ```
+    Paper: https://ieeexplore.ieee.org/abstract/document/8790354
+    Citation: https://scholar.googleusercontent.com/scholar.bib?q=info:TfxTq6aVumkJ:scholar.google.com/&output=citation&scisdr=CgVZZtBEEKrl6EoQH5g:AAGBfm0AAAAAYKUVB5jJFfqXxelENdzOXlpGL_rLWtDh&scisig=AAGBfm0AAAAAYKUVByIXXxiSUtJ2uci-flA12uSjpKJm&scisf=4&ct=citation&cd=0&hl=zh-CN&scfhb=1
+    ```
+
+    </details>
+
+11. 👍 **Gradient-based Hyperparameter Optimization through Reversible Learning**
+    [[Notes](./notes/maclaurin2015gradient.md)]
+    [[Paper](http://proceedings.mlr.press/v37/maclaurin15.pdf)]
+    ⭐⭐
+
+    **Overview:** Propose an algorithm that exactly reverses stochastic gradient descent with momentum to compute gradients to all hyperparameters..
+    <details>
+    <summary>Details (click to expand...)</summary>
+
+    #### Citation
+
+    ```
+    @inproceedings{maclaurin2015gradient,
+    title={Gradient-based hyperparameter optimization through reversible learning},
+    author={Maclaurin, Dougal and Duvenaud, David and Adams, Ryan},
+    booktitle={International conference on machine learning},
+    pages={2113--2122},
+    year={2015},
+    organization={PMLR}
+    }
+    ```
+
+    #### URL
+
+    ```
+    Paper: http://proceedings.mlr.press/v37/maclaurin15.pdf
+    Citation: https://scholar.googleusercontent.com/scholar.bib?q=info:oK1ZvNVI-uMJ:scholar.google.com/&output=citation&scisdr=CgVZZtBEEKrl6EoQ8_s:AAGBfm0AAAAAYKUV6_se36b1b_RsPTPRnV5A0aH5J0CT&scisig=AAGBfm0AAAAAYKUV63VPI_YU7HBEZsFtAvbUISilTUoM&scisf=4&ct=citation&cd=0&hl=zh-CN
+    ```
+
+    </details>
