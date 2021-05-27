@@ -649,3 +649,66 @@
     ```
 
     </details>
+
+
+18.   👍 **DeepLocalize: Fault Localization for Deep Neural Networks  (2021 ICSE)**
+    [[Notes](./notes/wardat2021deeplocalize.md)]
+    [[Paper](https://arxiv.org/pdf/2103.03376.pdf)]
+    ⭐⭐
+
+    **Overview:**  
+    <details> The first whight box system to debug and localize the defects and bugs in DNN model and analyze the root cause of them.
+    <summary>Details (click to expand...)</summary>
+
+    #### Citation
+
+    ```
+    @inproceedings{wardat2021deeplocalize,
+    title={DeepLocalize: Fault Localization for Deep Neural Networks},
+    author={Wardat, Mohammad and Le, Wei and Rajan, Hridesh},
+    booktitle={2021 IEEE/ACM 43rd International Conference on Software Engineering (ICSE)},
+    pages={251--262},
+    year={2021},
+    organization={IEEE}
+    }
+    ```
+
+    #### URL
+
+    ```
+    Paper: https://arxiv.org/pdf/2103.03376.pdf
+    Citation: https://scholar.googleusercontent.com/scholar.bib?q=info:8Q_s6AyA2ToJ:scholar.google.com/&output=citation&scisdr=CgVZZtBEEKrl6EFJLMM:AAGBfm0AAAAAYK5MNMMXqCHuHLfJqVjDdt8CaP0XGzqM&scisig=AAGBfm0AAAAAYK5MNH75yciIG8bPyEyuvwl_ThHIlCVZ&scisf=4&ct=citation&cd=0&hl=zh-CN
+    ```
+
+    </details>
+
+19.   👍 **Graph-based Fuzz Testing for Deep Learning Inference Engines (2021 ICSE)**
+    [[Notes](./notes/wardat2021deeplocalize.md)]
+    [[Paper](https://arxiv.org/pdf/2008.05933.pdf)]
+    ⭐⭐
+
+    **Overview:**  
+    <details> Graph-based fuzzy test for Tensorflow DL lib to test the quality. 
+    <summary>Details (click to expand...)</summary>
+
+    #### Citation
+
+    ```
+    @inproceedings{luo2021graph,
+    title={Graph-based Fuzz Testing for Deep Learning Inference Engines},
+    author={Luo, Weisi and Chai, Dong and Run, Xiaoyue and Wang, Jiang and Fang, Chunrong and Chen, Zhenyu},
+    booktitle={2021 IEEE/ACM 43rd International Conference on Software Engineering (ICSE)},
+    pages={288--299},
+    year={2021},
+    organization={IEEE}
+    }
+    ```
+
+    #### URL
+
+    ```
+    Paper: https://arxiv.org/pdf/2008.05933.pdf
+    Citation: https://scholar.googleusercontent.com/scholar.bib?q=info:kk0VRJBTOA4J:scholar.google.com/&output=citation&scisdr=CgVZZtBEEKrl6EBXu9g:AAGBfm0AAAAAYK9So9iyYUzHKDnncOvoaAluGoUjo1Wj&scisig=AAGBfm0AAAAAYK9So0nSatfxj2-AIjWntY5_sMj133Jk&scisf=4&ct=citation&cd=0&hl=zh-CN
+    ```
+
+    </details>
