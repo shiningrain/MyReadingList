@@ -34,3 +34,36 @@
     ```
 
     </details>
+
+2.  ⛔️ **Ptolemy: Architecture Support for Robust Deep Learning**
+    [[Notes](./notes/gan2020ptolemy.md)]
+    [[Paper](https://ieeexplore.ieee.org/abstract/document/9251936)]
+    ⭐⭐
+    (Not a concerned area any more......)
+
+    **Overview:** Proposea an algorithm-architecture co-designed system to detect adversarial attack efficiently.
+
+    <details>
+    <summary>Details (click to expand...)</summary>
+
+    #### Citation
+
+    ```
+    @inproceedings{gan2020ptolemy,
+    title={Ptolemy: Architecture support for robust deep learning},
+    author={Gan, Yiming and Qiu, Yuxian and Leng, Jingwen and Guo, Minyi and Zhu, Yuhao},
+    booktitle={2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)},
+    pages={241--255},
+    year={2020},
+    organization={IEEE}
+    }
+    ```
+
+    #### URL
+    
+    ```
+    Paper: https://ieeexplore.ieee.org/abstract/document/9251936
+    Citation: https://scholar.googleusercontent.com/scholar.bib?q=info:2w1J82Dg2BUJ:scholar.google.com/&output=citation&scisdr=CgVZZtBEEKrl6F-F9jQ:AAGBfm0AAAAAYLCA7jSV37vDEiHZQZQtTu4AGaDGGb_L&scisig=AAGBfm0AAAAAYLCA7qVVk1wAohxEWIEWvgtWfocGIwO3&scisf=4&ct=citation&cd=0&hl=zh-CN
+    ```
+
+    </details>
